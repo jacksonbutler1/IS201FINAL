@@ -1,0 +1,9 @@
+.mb-2{
+    width: 500px;
+}
+h2{
+    font-family: 'Courier New', Georgia, monospace;
+}
+.darkcolor{
+    background-color: rgb(31, 31, 198) !important;
+}

@@ -1,0 +1,45 @@
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(83, 136, 136);
+    font-family:  Courier, Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 3px solid #000;
+}
+
+.mainstuff{
+    text-align: left;
+    color: rgb(251, 245, 237);
+}
+
+
+
+#viz1702315146932 {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+  }
+  h2{
+    text-decoration: underline;
+  }
+  
+  a{
+    color: rgb(0, 0, 9);
+  }
